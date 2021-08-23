@@ -2,7 +2,7 @@
 
 ---
 # Hi there 👋
-My name is Sasha Luhr. I'm a driven and creative developer with a passion for arts and design as well as technology and maths. I'm outgoing and social, and always searching for new challenges! 
+My name is Sasha Luhr. I'm a driven and creative developer with a passion for arts and design as well as technology and maths. I'm outgoing and social, and always looking for new challenges! 
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>](http://linkedin.com/in/sashaluhr)
 
