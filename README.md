@@ -1,4 +1,4 @@
-<img width="100%" src="/images/salt_header.png"/>
+![salt_header](https://user-images.githubusercontent.com/83590472/130429560-9d3d1fd6-9d33-4da5-80e5-f3d88b4f5ffe.png)
 
 ---
 # Hi there 👋
