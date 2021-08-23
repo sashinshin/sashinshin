@@ -1,16 +1,37 @@
-### Hi there 👋
+<img width="100%" src="/images/salt_header.png"/>
 
-<!--
-**sashinshin/sashinshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+# Hi there 👋
+My name is Sasha Luhr. I'm a driven and creative developer with a passion for arts and design as well as technology and maths. I'm outgoing and social, and always searching for new challenges! 
 
-Here are some ideas to get you started:
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg"/>](http://linkedin.com/in/sashaluhr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+# Projects
+
+#### [DreamStream](https://github.com/Mob-the-Builders/dream-stream)
+* Image sharing social media website
+
+#### [Workout tracker](https://github.com/sashinshin/workout-app)
+* App to track your completed workouts
+
+---
+# Tech stack
+
+#### General
+* JavaScript
+
+#### Backend
+* NodeJS
+* ExpressJS
+* REST
+* GraphQL
+* MongoDB/PostgreSQL
+
+#### Frontend
+* React
+* Redux
+* Webpack
+* HTML
+* jQuery
+* CSS/SASS/styled-components
