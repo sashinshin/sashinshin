@@ -15,6 +15,9 @@ My name is Sasha Luhr. I'm a driven and creative developer with a passion for ar
 #### [Workout tracker](https://github.com/sashinshin/workout-app)
 * App to track your completed workouts
 
+### [Todo list](https://github.com/sashinshin/todo-react)
+* Todo app created in react
+
 ---
 # Tech stack
 
