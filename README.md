@@ -4,9 +4,7 @@
 # Hi there 👋
 My name is Sasha Luhr. I'm a driven and creative developer with a passion for arts and design as well as technology and maths. I'm outgoing and social, and always looking for new challenges! 
 
-<p float="left">
-  [<img height="64" width="64" src="https://www.iconninja.com/files/467/547/811/color-circle-linkedin-icon.png"/>](http://linkedin.com/in/sashaluhr)
-</p>
+ [<img height="64" width="64" src="https://www.iconninja.com/files/467/547/811/color-circle-linkedin-icon.png"/>](http://linkedin.com/in/sashaluhr)
 ---
 # Projects
 
@@ -34,7 +32,7 @@ My name is Sasha Luhr. I'm a driven and creative developer with a passion for ar
 #### Backend
 <p float="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="64" height="64"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="64" height="64"   style="background:white"/>
+  <img src="https://www.mementotech.in/assets/images/icons/express.png" alt="express" width="64" height="64"/>
 </p>
 
 #### Database
