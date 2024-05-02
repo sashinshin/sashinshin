@@ -1,7 +1,6 @@
 ![salt_header](https://user-images.githubusercontent.com/83590472/130429560-9d3d1fd6-9d33-4da5-80e5-f3d88b4f5ffe.png)
 
 ---
-# Hi there 👋
 
  [<img height="40" width="40" src="https://www.iconninja.com/files/467/547/811/color-circle-linkedin-icon.png"/>](http://linkedin.com/in/sashaluhr)
 ---
