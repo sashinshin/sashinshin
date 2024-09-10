@@ -1,21 +1,4 @@
-![salt_header](https://user-images.githubusercontent.com/83590472/130429560-9d3d1fd6-9d33-4da5-80e5-f3d88b4f5ffe.png)
 
----
-
- [<img height="40" width="40" src="https://www.iconninja.com/files/467/547/811/color-circle-linkedin-icon.png"/>](http://linkedin.com/in/sashaluhr)
----
-# Projects
-
-#### [DreamStream](https://github.com/Mob-the-Builders/dream-stream)
-* Image sharing social media website
-
-#### [Workout tracker](https://github.com/sashinshin/workout-app)
-* App to track your completed workouts
-
-#### [Todo list](https://github.com/sashinshin/todo-react)
-* Todo app created in react
-
----
 # Tech stack
 
 #### General
